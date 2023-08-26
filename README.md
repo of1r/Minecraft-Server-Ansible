@@ -1,4 +1,4 @@
-This Ansible playbook is the fastest way to create a Minecraft Server with the minimal effort.
+This Ansible playbook is the fastest way to create a Minecraft Server with minimal effort.
 
 Update Role - Installing and updating all the necessary packages.
 Misc Role - Creating user, groups and directories.
